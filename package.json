@@ -1,0 +1,48 @@
+{
+    "name": "tg-d-subh",
+    "displayName": "Tg_D_Subh",
+    "description": "This is full Dark Theme.This TechGrafico Theme is all Black Theme.Never stop learning and Naver give up! plz... try! try! and try again and again.",
+    "publisher": "TechGrafico",
+    "author": {
+        "name": "Subham Kumar",
+        "email": "techgrafico@gmail.com",
+        "url": "https://techgrafico.in"
+    },
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^0.10.5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/subh700/tg-d-subh_theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/subh700/tg-d-subh_theme.git/issues"
+    },
+    "galleryBanner": {
+        "color": "#ff6347",
+        "theme": "dark"
+    },
+    "icon": "img/favicon.ico",
+    "keywords": [
+        "techgrafico theme",
+        "dark theme",
+        "techgrafico",
+        "vscode TechGrafico",
+        "black",
+        "blue",
+        "red",
+        "orange",
+        "skyblue"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "subh",
+            "uiTheme": "vs-dark",
+            "path": "./themes/subh-color-theme.json"
+        }]
+    }
+}
