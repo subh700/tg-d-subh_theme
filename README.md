@@ -1,17 +1,18 @@
-<p align="center"><img width="800px" src="img/tg-d-subh.png"></p>
+<p align="center"><img width="800px" src="https://drive.google.com/file/d/1i7R2itzdfN8awFQ5zHYc05pi2i-SYZKM/view?usp=sharing"></p>
 <p align="center">
 <a href="https://marketplace.visualstudio.com/items?itemName=TechGrafico.techgrafico&ssr=false#review-details"><img src="https://vsmarketplacebadge.apphb.com/rating-star/Equinusocio.vsc-material-theme.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08"/></a> <a href="https://marketplace.visualstudio.com/items?itemName=TechGrafico.techgrafico"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Equinusocio.vsc-material-theme.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS"/></a> <br> <a href="https://techgrafico.in/"><img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a> 
 </p>
 
 ## SCREENSHOT
-![ScreenShot](img/11.png)
-![ScreenShot](img/14.png)
-![ScreenShot](img/13.png)
-![ScreenShot](img/12.png)
+![ScreenShot](https://drive.google.com/file/d/1mRylGvI3beR2YfQK7VTcF8nxB9crh6cp/view?usp=sharing)
+![ScreenShot](https://drive.google.com/file/d/1VcB42sqCV_ltq6ixj4Qe6RGtDfekyd1x/view?usp=sharing)
+![ScreenShot](https://drive.google.com/file/d/1l-IoDYFFJDB9DVnzjDusqqpy5AlSPzUP/view?usp=sharing)
+![ScreenShot](https://drive.google.com/file/d/1wCDDah-889NMWcTB-cpOEJGUrWkP9o1p/view?usp=sharing)
+![ScreenShot](https://drive.google.com/file/d/1gq0lUTcxAql0-EmERyvCGEOeY3mwlLPQ/view?usp=sharing)
 
 ## Getting started
 
-You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=TechGrafico.techgrafico).
+You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=TechGrafico.tg-d-subh).
 
 ### Installation
 
@@ -23,7 +24,7 @@ Launch *Quick Open*:
 Paste the following command and press `Enter`:
 
 ```shell
-ext install TechGrafico.techgrafico
+ext install TechGrafico.tg-d-subh
 ```
 
 And pick the one by **Mattia Astorino (Equinusocio)** as author.
