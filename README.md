@@ -10,6 +10,7 @@
 ![ScreenShot](img/14.png)
 ![ScreenShot](img/15.png)
 <img src="https://github.com/subh700/tg-d-subh_theme/blob/main/img/11.png"/>
+<p align="center"><img width="800px" src="img/11.png"></p>
 
 ## Getting started
 
