@@ -1,18 +1,14 @@
-<p align="center"><img width="800px" src="img/tg-d-subh.png"></p>
+<p align="center"><img width="800px" src="https://techgrafico.in/images/tg-d-subh.png"></p>
 <p align="center">
 <a href="https://marketplace.visualstudio.com/items?itemName=TechGrafico.techgrafico&ssr=false#review-details"><img src="https://vsmarketplacebadge.apphb.com/rating-star/Equinusocio.vsc-material-theme.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08"/></a> <a href="https://marketplace.visualstudio.com/items?itemName=TechGrafico.techgrafico"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Equinusocio.vsc-material-theme.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS"/></a> <br> <a href="https://techgrafico.in/"><img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a> 
 </p>
 
 ## SCREENSHOT
-![ScreenShot](https://github.com/subh700/tg-d-subh_theme/blob/main/img/11.png)
-## SCREENSHOT
-![ScreenShot](https://github.com/subh700/tg-d-subh_theme/blob/main/img/11.png/12.png)
-## SCREENSHOT
-![ScreenShot](https://github.com/subh700/tg-d-subh_theme/blob/main/img/11.png/13.png)
-## SCREENSHOT
-![ScreenShot](https://github.com/subh700/tg-d-subh_theme/blob/main/img/11.png/14.png)
-## SCREENSHOT
-![ScreenShot](https://github.com/subh700/tg-d-subh_theme/blob/main/img/11.png/15.png)
+![ScreenShot](https://techgrafico.in/images/11.png)
+![ScreenShot](https://techgrafico.in/images/12.png)
+![ScreenShot](https://techgrafico.in/images/13.png)
+![ScreenShot](https://techgrafico.in/images/14.png)
+![ScreenShot](https://techgrafico.in/images/15.png)
 
 
 ## Getting started
@@ -51,5 +47,5 @@ Launch *Quick Open*:
 
 **Enjoy!**
 
-<p align="center"><img src="img/logo.png"></p>
+<p align="center"><img src="https://techgrafico.in/images/logo.png"></p>
 <p align="center">Copyright &copy; 2021 TechGrafico</p>
