@@ -4,7 +4,7 @@
 </p>
 
 ## SCREENSHOT
-![ScreenShot](img/11.png)
+![ScreenShot](https://github.com/subh700/tg-d-subh_theme/blob/main/img/11.png)
 ![ScreenShot](img/12.png)
 ![ScreenShot](img/13.png)
 ![ScreenShot](img/14.png)
