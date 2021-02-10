@@ -5,10 +5,15 @@
 
 ## SCREENSHOT
 ![ScreenShot](https://github.com/subh700/tg-d-subh_theme/blob/main/img/11.png)
+## SCREENSHOT
 ![ScreenShot](https://github.com/subh700/tg-d-subh_theme/blob/main/img/11.png/12.png)
+## SCREENSHOT
 ![ScreenShot](https://github.com/subh700/tg-d-subh_theme/blob/main/img/11.png/13.png)
+## SCREENSHOT
 ![ScreenShot](https://github.com/subh700/tg-d-subh_theme/blob/main/img/11.png/14.png)
+## SCREENSHOT
 ![ScreenShot](https://github.com/subh700/tg-d-subh_theme/blob/main/img/11.png/15.png)
+## SCREENSHOT
 
 
 ## Getting started
